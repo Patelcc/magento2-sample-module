@@ -89,7 +89,7 @@ Disable module : PHP bin/magento module:disable Learning_HelloMage
 
 ### Step 5. Check new module is active.
 
-To check the new module is enable open file app/etc/config.php and find "Learning_HelloMage" check value = 1
+To check the new module is enable open file `app/etc/config.php` and find `Learning_HelloMage` check value = 1
 
 ### Step 6. Create route  for module.
 
