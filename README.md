@@ -1,6 +1,6 @@
 # Magento 2 sample module
 
-**Magento 2 Hello World Simple Module**
+How to create **Magento 2 Hello World Simple Module** using this module we are display simple "Hello Mage" and also we are learn how create frontend route and how to use route.
 
 
 ## Magento 2 Hello World module
